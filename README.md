@@ -1,5 +1,5 @@
 # Flame-On
-Flame On is a "stove on" reminder system that helps Senior Citizens and anyone with fire/gas stove.
+Flame On is a "stove on" reminder system that helps Senior Citizens and anyone with a fire/gas stove.
 
 We don't want you to worry anymore about your stove.
 
